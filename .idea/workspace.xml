@@ -6,50 +6,56 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:frontend" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bff3874-0f80-4ef6-957e-fc1f35d5523e" name="Default" comment="docker">
+      <change beforePath="$PROJECT_DIR$/.idea/api_automation_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/api_automation_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/{" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_automation_test/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_automation_test/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/build/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/0.9d783b0e62a27e8ac28e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/1.0361da2a432e53ed650e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/10.4664cbacc35230444330.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/11.f127c45e64f6ccb15486.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/12.1187cd4d0933799f64b9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/13.d42875ad80794d82545a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/14.c54ecee4254912947184.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/15.75d9f1a46138ab4335b6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/16.6294ce540c2b88cb1f0c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/17.4f8eeb5a2ccfad84129a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/18.0dd4f78379a06dfdd0c4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/19.c625e65b8e2b62471a8d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/2.fc65a494cb391acab5e1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/20.c93e5f5f035f2d7f5bac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/21.25e1b674d45e351ad4ce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/22.51d766d611c49e651722.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/23.835b49ec35801d28d24e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/24.a85cf559858f1b6a4848.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/25.5203a2781b4258e5b6df.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/26.0d7f082d9ca441af7729.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/27.81a9e270eefa1be143e2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/3.4fcdbb611191939ffff0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/4.37b982cd32ecbc53c210.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/5.cc532fccc319a68a76d8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/6.f02679938619a893921e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/7.7ad576b8a9cb55da8cc7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/8.655374a1fd32a6bcfe0e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/9.f427f8d235ff84ff5a5b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/app.855bc64b0cdf7fa6adf6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/static/js/manifest.25ce1c6ff082f4563852.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/api/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/api/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,19 +82,25 @@
     <expand />
     <select />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="githublitao" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="api_automation_test" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="977" />
   </component>
   <component name="ProjectId" id="1hD8M7JzAy2SmZ8FAPXuSs07iSS" />
   <component name="ProjectLevelVcsManager">
@@ -105,21 +117,23 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/project/api_automation_test/api_test/serializers.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/config" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\api_automation_test\frontend\config" />
+      <recent name="E:\api_automation_test\frontend\build" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/frontende/build" />
       <recent name="$PROJECT_DIR$/frontende" />
     </key>
   </component>
   <component name="RunManager" selected="Python.manage">
-    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python">
       <module name="api_automation_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,41 +155,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sendEmail" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="api_automation_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api_test/common" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_test/common/sendEmail.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+    <configuration default="true" type="js.build_tools.npm" singleton="false">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="front" type="js.build_tools.npm" singleton="false">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="npm.front" />
       <item itemvalue="Python.manage" />
-      <item itemvalue="Python.sendEmail" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.manage" />
-        <item itemvalue="Python.sendEmail" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\86176\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -235,6 +241,14 @@
       <workItem from="1561450669752" duration="4474000" />
       <workItem from="1561966758272" duration="350000" />
       <workItem from="1599534253551" duration="12277000" />
+      <workItem from="1612577054293" duration="28000" />
+      <workItem from="1612577142361" duration="18000" />
+      <workItem from="1612577235123" duration="12309000" />
+      <workItem from="1612662259999" duration="1195000" />
+      <workItem from="1612762935561" duration="542000" />
+      <workItem from="1612763734744" duration="2227000" />
+      <workItem from="1612765975174" duration="3480000" />
+      <workItem from="1612769853790" duration="2994000" />
     </task>
     <task id="LOCAL-00001" summary="1.重构新增项目，修改项目接口代码，增加详细注释">
       <created>1527915774102</created>
@@ -564,6 +578,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -602,26 +619,146 @@
     <option name="LAST_COMMIT_MESSAGE" value="docker" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="704" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599544363617">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state x="524" y="207" key="#Notifications" timestamp="1612600329134">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="704" y="321" key="#com.intellij.fileTypes.FileTypeChooser/1920.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1599544363617" />
-    <state x="192" y="110" key="MergeDialog" timestamp="1599534144512">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state x="524" y="207" key="#Notifications/0.0.1280.689@0.0.1280.689" timestamp="1612600329134" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612772254319">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="192" y="110" key="MergeDialog/1920.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1599534144512" />
-    <state x="560" y="252" key="Vcs.Push.Dialog.v2" timestamp="1599550001186">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1612772254319" />
+    <state x="386" y="148" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612767484908">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="560" y="252" key="Vcs.Push.Dialog.v2/1920.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1599550001186" />
-    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599541334405">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state x="386" y="148" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1612767484908" />
+    <state x="421" y="50" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1612657370735">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1599541334405" />
-    <state x="667" y="267" width="586" height="490" key="find.popup" timestamp="1599543843347">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state x="421" y="50" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.689@0.0.1280.689" timestamp="1612657370735" />
+    <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612767746024">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="667" y="267" width="586" height="490" key="find.popup/1920.23.1080.1897/0.23.1920.978@0.23.1920.978" timestamp="1599543843347" />
+    <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1612767746024" />
+    <state x="340" y="29" key="#front" timestamp="1612764204333">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="340" y="29" key="#front/0.0.1280.689@0.0.1280.689" timestamp="1612764204333" />
+    <state x="93" y="93" width="1095" height="504" key="DiffContextDialog" timestamp="1612659464628">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="93" y="93" width="1095" height="504" key="DiffContextDialog/0.0.1280.689@0.0.1280.689" timestamp="1612659464628" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1612600613985">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1612600613985" />
+    <state x="275" y="212" key="Github.CreatePullRequestDialog" timestamp="1612599371385">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="275" y="212" key="Github.CreatePullRequestDialog/0.0.1280.689@0.0.1280.689" timestamp="1612599371385" />
+    <state x="484" y="171" key="Github.ShareDialog" timestamp="1612600796421">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="484" y="171" key="Github.ShareDialog/0.0.1280.689@0.0.1280.689" timestamp="1612600796421" />
+    <state width="1237" height="220" key="GridCell.Tab.0.bottom" timestamp="1612770082721">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1612770082721" />
+    <state width="1237" height="220" key="GridCell.Tab.0.center" timestamp="1612770082721">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1612770082721" />
+    <state width="1237" height="220" key="GridCell.Tab.0.left" timestamp="1612770082721">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1612770082721" />
+    <state width="1237" height="220" key="GridCell.Tab.0.right" timestamp="1612770082721">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1612770082721" />
+    <state width="1237" height="273" key="GridCell.Tab.1.bottom" timestamp="1612662165593">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="273" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1612662165593" />
+    <state width="1237" height="273" key="GridCell.Tab.1.center" timestamp="1612662165592">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="273" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1612662165592" />
+    <state width="1237" height="273" key="GridCell.Tab.1.left" timestamp="1612662165592">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="273" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1612662165592" />
+    <state width="1237" height="273" key="GridCell.Tab.1.right" timestamp="1612662165592">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="273" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1612662165592" />
+    <state width="1237" height="273" key="GridCell.Tab.2.bottom" timestamp="1612662165593">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="273" key="GridCell.Tab.2.bottom/0.0.1280.689@0.0.1280.689" timestamp="1612662165593" />
+    <state width="1237" height="273" key="GridCell.Tab.2.center" timestamp="1612662165593">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="273" key="GridCell.Tab.2.center/0.0.1280.689@0.0.1280.689" timestamp="1612662165593" />
+    <state width="1237" height="273" key="GridCell.Tab.2.left" timestamp="1612662165593">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="273" key="GridCell.Tab.2.left/0.0.1280.689@0.0.1280.689" timestamp="1612662165593" />
+    <state width="1237" height="273" key="GridCell.Tab.2.right" timestamp="1612662165593">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="273" key="GridCell.Tab.2.right/0.0.1280.689@0.0.1280.689" timestamp="1612662165593" />
+    <state width="1237" height="273" key="GridCell.Tab.3.bottom" timestamp="1612662165593">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="273" key="GridCell.Tab.3.bottom/0.0.1280.689@0.0.1280.689" timestamp="1612662165593" />
+    <state width="1237" height="273" key="GridCell.Tab.3.center" timestamp="1612662165593">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="273" key="GridCell.Tab.3.center/0.0.1280.689@0.0.1280.689" timestamp="1612662165593" />
+    <state width="1237" height="273" key="GridCell.Tab.3.left" timestamp="1612662165593">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="273" key="GridCell.Tab.3.left/0.0.1280.689@0.0.1280.689" timestamp="1612662165593" />
+    <state width="1237" height="273" key="GridCell.Tab.3.right" timestamp="1612662165593">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="273" key="GridCell.Tab.3.right/0.0.1280.689@0.0.1280.689" timestamp="1612662165593" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1612600722538">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1612600722538" />
+    <state x="385" y="49" key="VCS.ChangeListViewerDialog" timestamp="1612599316122">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="385" y="49" key="VCS.ChangeListViewerDialog/0.0.1280.689@0.0.1280.689" timestamp="1612599316122" />
+    <state x="388" y="79" key="VcsDiffUtil.ChangesDialog" timestamp="1612658002388">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="388" y="79" key="VcsDiffUtil.ChangesDialog/0.0.1280.689@0.0.1280.689" timestamp="1612658002388" />
+    <state x="325" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1612575130850">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="325" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1612575130850" />
+    <state x="254" y="45" width="773" height="600" key="find.popup" timestamp="1612772150189">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="254" y="45" width="773" height="600" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1612772150189" />
+    <state x="323" y="132" key="git4idea.merge.GitPullDialog" timestamp="1612599855993">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="323" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.689@0.0.1280.689" timestamp="1612599855993" />
+    <state x="253" y="206" key="git4idea.rebase.GitRebaseDialog" timestamp="1612600740023">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="253" y="206" key="git4idea.rebase.GitRebaseDialog/0.0.1280.689@0.0.1280.689" timestamp="1612600740023" />
+    <state x="407" y="245" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1612600268089">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="407" y="245" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.689@0.0.1280.689" timestamp="1612600268089" />
+    <state x="316" y="72" width="672" height="678" key="search.everywhere.popup" timestamp="1612770781778">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="316" y="72" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1612770781778" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -633,5 +770,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/api_automation_test$manage.coverage" NAME="manage Coverage Results" MODIFIED="1612770061906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

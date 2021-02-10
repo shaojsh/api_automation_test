@@ -22,7 +22,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'w34c9nnr_5dw%e1f7qwgk62*8po^s88lf_r!_0*%d2fr3w6_zk'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': True,
@@ -164,9 +164,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'api_test',
         'USER': 'root',
-        'PASSWORD': '123456',
+        'PASSWORD': 'root',
         # 'HOST': '120.79.232.23',
-        'HOST': 'auto_mysql',
+        'HOST': 'localhost',
         'PORT': '3306',
     }
 }

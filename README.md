@@ -45,13 +45,13 @@ DATABASES = {
     'default': {
         # 'ENGINE': 'django.db.backends.sqlite3',
         # 'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-        'ENGINE':'django.db.backends.mysql',     # 数据库类型，mysql
-        'NAME':'api_test',            #  database名
-        'USER':'root',               # 登录用户
-        'PASSWORD':'123456',        #  登录用户名
-        'HOST':'127.0.0.1',        # 数据库地址
-        'PORT':'3306'              # 数据库端口
-    }
+        'ENGINE':'django.db.backends.mysql',     # 数据库类型，mysql
+        'NAME':'api_test',            #  database名
+        'USER':'root',               # 登录用户
+        'PASSWORD':'123456',        #  登录用户名
+        'HOST':'127.0.0.1',        # 数据库地址
+        'PORT':'3306'              # 数据库端口
+    }
 }
 ```
 ### 5.cmd到根目录下，让 Django 知道我们在我们的模型有一些变更<br>
@@ -138,3 +138,4 @@ python manage.py runserver 0.0.0.0:8000
 <br>
 21、后台管理页面，主要用作数据管理，及项目人员添加删除<br>
 ![后台管理](https://github.com/githublitao/api_automation_test/blob/master/img/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2.png)
+http-server ./dist
